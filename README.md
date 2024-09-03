@@ -2,6 +2,8 @@
 
 [![Clojars Project](https://img.shields.io/clojars/v/babel-middleware.svg)](https://clojars.org/babel-middleware)
 
+:warning: **NOTICE (DEPRECATED)**: This repository is a fork of the *ancient* Babel repository owned by [elenam]/(https://github.com/elenam), and **is no longer being maintained** due to the messiness that comes with this project structure. All existing work on this project as of Sep 3, 2024 should be located in [this repository](https://github.com/Clojure-Intro-Course/babel) instead.
+
 A proof of concept tool for transforming error message in Clojure into beginner friendly forms.
 Very early in development, and will experience breaking changes.
 Paper describing its use and development availible [here](https://github.com/Clojure-Intro-Course/mics2018demo/blob/master/mics2018.pdf "MICS Paper").
